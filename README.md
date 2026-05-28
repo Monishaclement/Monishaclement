@@ -1,17 +1,17 @@
 # 👋 Hey, I'm Monisha
 
 💻 Full Stack Developer | DSA Enthusiast | Data Analytics Learner  
-🎓 Computer Science Engineering Student passionate about building impactful applications and solving real-world problems through technology.
+🎓 Computer Science Engineering Student passionate about solving problems, building scalable applications, and continuously improving technical skills.
 
 ---
 
 ## 🚀 Projects
 
 ### 💰 SmartFinanceAI
-An AI-powered finance management platform focused on budgeting, expense tracking, and smart financial insights.
+AI-powered finance management platform focused on budgeting, expense tracking, and smart financial insights.
 
 ### 🛡️ InsurAI
-A modern AI-based insurance platform focused on policy recommendations and simplified user experiences.
+AI-based insurance platform focused on policy recommendations and simplified user experience.
 
 ---
 
@@ -36,7 +36,7 @@ A modern AI-based insurance platform focused on policy recommendations and simpl
 - MySQL
 - MongoDB
 
-### Tools & Platforms
+### Tools
 - Git & GitHub
 - VS Code
 - Postman
@@ -46,38 +46,28 @@ A modern AI-based insurance platform focused on policy recommendations and simpl
 ## 📚 Currently Focusing On
 
 - Data Structures & Algorithms
+- Problem Solving
 - Full Stack Development
 - Data Analytics
-- Problem Solving
 - System Design
+
+I’m currently focusing more on improving my DSA and problem-solving skills while building modern full stack applications.
 
 ---
 
 ## 💼 Experience
 
 ### Infosys Springboard — Virtual Internship
-Gained exposure to software development concepts, industry workflows, and technical problem-solving through hands-on virtual internship programs.
+Worked on industry-oriented learning modules and gained exposure to software development concepts, technical workflows, and problem-solving approaches.
 
 ### Skyfall Voice Communication — Network Engineer Intern
 Worked on networking fundamentals, communication systems, and technical operations during internship training.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monishaclement&show_icons=true&theme=github_dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishaclement&layout=compact&theme=github_dark&cache_seconds=1800" />
-</p>
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Monishaclement
-- LinkedIn: https://www.linkedin.com/in/monisha-c-b36ab6295/
 
 ---
 
