@@ -65,12 +65,13 @@ Worked on networking fundamentals, communication systems, and technical operatio
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Monishaclement&show_icons=true&theme=github_dark&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Monishaclement&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishaclement&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishaclement&layout=compact&theme=github_dark&cache_seconds=1800" />
+</p>
 ---
 
 ## 📫 Connect With Me
