@@ -1,78 +1,90 @@
-<h1 align="center">🌸 Hey, I'm <span style="color:#ff69b4">Monisha Clement</span> 👋</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff69b4">Monisha Clement</span></h1>
+
+<h3 align="center">
+Passionate Software Developer | DSA Enthusiast | AI & Full Stack Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;DSA+Enthusiast+💻;Full+Stack+Developer;AI+%26+Data+Science+Learner;Always+Learning%2C+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=26&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Development+Enthusiast;AI+%26+Data+Science+Learner;Problem+Solver+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monishaclement&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishaclement&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Monishaclement&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishaclement&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🔥 Streak Stats  
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Monishaclement&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 Activity Graph  
+## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monishaclement&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies  
+## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Monishaclement&theme=discord&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Monishaclement&label=Profile%20Views&color=ff69b4&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Monishaclement&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
 ---
 
-# 💗 About Me
-- 🎓 CSE Student at St. Joseph's Institute of Technology
-- 💻 Focused on DSA & Full Stack Development
-- 🤖 Exploring AI, Data Science & Real-World Projects
-- 🚀 Goal: Crack 10+ LPA Software Role
-- 🔥 “Code. Learn. Build. Repeat.”
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Interested in Full Stack Development and Software Engineering  
+- 🤖 Exploring Artificial Intelligence and Data Science  
+- 📚 Consistently improving problem-solving and DSA skills  
+- 🚀 Passionate about building impactful real-world projects  
 
 ---
 
 ## 📌 Current Focus
-- 📚 Solving DSA Problems Daily
-- 🌐 Building MERN Stack Projects
-- 🤖 Learning AI & Data Analytics
-- 🧠 Improving Problem Solving Skills
+
+- 📚 Practicing Data Structures & Algorithms  
+- 🌐 Developing MERN Stack Applications  
+- 🤖 Learning AI & Data Analytics Concepts  
+- 🧠 Strengthening Core CS Fundamentals  
 
 ---
 
 ## 🔗 Connect With Me
+
 <p align="center">
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:monishaclement@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -85,5 +97,5 @@
 ---
 
 <p align="center">
-  🌸 Built with passion by <b>Monisha Clement</b>
+  ✨ Building, learning, and growing every day
 </p>
